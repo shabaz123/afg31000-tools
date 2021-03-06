@@ -1,5 +1,5 @@
-# afg31000-tools
-Tektronix AFG31000 Open Source Tools
+# Tektronix AFG31000 Open Source Tools
+
 The tools here are useful for working with the Tektronix AFG 31000 Series Arbitrary Waveform Generators.
 
 ## Matlab Tools
